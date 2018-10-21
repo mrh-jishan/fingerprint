@@ -9,7 +9,6 @@ setup(
     author='Kailash Budhathoki',
     author_email='kailash.buki@gmail.com',
     description='Document fingerprint generator',
-    long_description=open('README.md').read(),
     packages=['fingerprint'],
     platforms='any',
     classifiers=[
